@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankasaini69&label=Profile%20views&color=0e75b6&style=flat" alt="priyankasaini69" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=priyankasaini69&label=Profile%20views&color=0e75b6&style=flat" alt="priyankasaini69](https://drive.google.com/file/d/1wF6r1yR2Oj2vcSAnyWLKMvFZ_140dVSP/view?usp=sharing)" /> </p>
 
 - 🌱 I’m currently learning **Python, Javascript, Mysql, Php**
 
