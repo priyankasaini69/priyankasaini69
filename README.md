@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://drive.google.com/file/d/1baIh7-JJe5Da0mabioQCkJlUarw6ZCZg/view" /> </p>
 
-- 🌱 I’m currently learning **Python, Javascript, Mysql, AWS Services**
+- 🌱 I’m currently learning **Google Cloud & working on "Microservices Project"**
 
+- I know **Python, MERN, Mysql, AWS Services**
 - 💬 Ask me about **how to live alone**
 
 - 📫 How to reach me **priyankaeagle69@gmail.com**
