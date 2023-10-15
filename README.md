@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Google Cloud & working on "Microservices Project"**
 
-- I know **Python, MERN, Mysql, AWS Services**
+- ⚡ I know **Python, MERN, Mysql, AWS Services**
 - 💬 Ask me about **how to live alone**
 
 - 📫 How to reach me **priyankaeagle69@gmail.com**
