@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **priyankaeagle69@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18hfAznrofpIzpsKhS_8RAgMB5mHf4fb-/view?usp=sharing](https://drive.google.com/file/d/18hfAznrofpIzpsKhS_8RAgMB5mHf4fb-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1baIh7-JJe5Da0mabioQCkJlUarw6ZCZg/view]
 
 - ⚡ Fun fact **I am blank when someone wants an answer from me**
 
