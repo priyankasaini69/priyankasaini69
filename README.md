@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://drive.google.com/file/d/1baIh7-JJe5Da0mabioQCkJlUarw6ZCZg/view" /> </p>
 
-- 🌱 I’m currently learning **Python, Javascript, Mysql, Php**
+- 🌱 I’m currently learning **Python, Javascript, Mysql, AWS Services**
 
 - 💬 Ask me about **how to live alone**
 
